@@ -9,4 +9,5 @@ for i,v in zakupy.items():
     print(f'Idę do {i}, kupuję tu następujące rzeczy: {v}.')
 
 print(f'W sumie kupuję {g} produktów.')
+print('zmiana do zadania')
 
