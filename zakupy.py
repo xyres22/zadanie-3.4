@@ -10,4 +10,5 @@ for i,v in zakupy.items():
 
 print(f'W sumie kupuję {g} produktów.')
 print('zmiana do zadania')
+print('jeszcze jedna zmiana')
 
